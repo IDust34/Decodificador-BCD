@@ -1,0 +1,2 @@
+# Decodificador-BCD
+BCd decodificador
